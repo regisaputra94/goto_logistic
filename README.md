@@ -3,7 +3,7 @@
 Setup
 1. Install Python 3.*
 2. Install Robot Framework
-3. Install SeleniuLibrary
+3. Install SeleniumLibrary
 4. Setup webdriver with chromedriver
 
 How To Run
