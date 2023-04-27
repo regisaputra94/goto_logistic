@@ -9,6 +9,6 @@ Setup
 How To Run
 1. Run setup above
 2. Clone this repo to local
-3. cd farmacare
-2. robot -d result/ testCase/bookDepository.robot
+3. cd goto_logistic
+2. robot -d result/ testCase/sauceDemo.robot
 
